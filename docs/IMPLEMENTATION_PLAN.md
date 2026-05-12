@@ -11,9 +11,9 @@
 - [ ] Phân tích tương quan giữa TFP và Năng suất lao động (`SL.GDP.PCAP.EM.KD`).
 
 ## Giai đoạn 3: Phát hiện & Chẩn đoán Điểm Gãy (Diagnostic Analysis) (Tuần 3)
-- [ ] **Phát hiện:** Dùng Z-score/Isolation Forest để xác định các năm biến động lệch chuẩn.
-- [ ] **Chẩn đoán:** Bóc tách nguyên nhân từ 3 khu vực. Đánh giá xem sự sụt giảm ở các điểm gãy có phải do khu vực II (Công nghiệp) hay khu vực III (Dịch vụ) dẫn đầu.
-- [ ] **Đối chiếu ngoại biên:** Liên kết các điểm gãy với biến động tỷ giá USD/VND và bối cảnh quốc tế từ báo cáo Overview.
+- [x] **Phát hiện:** Dùng Z-score/Isolation Forest để xác định các năm biến động lệch chuẩn.
+- [x] **Chẩn đoán:** Bóc tách nguyên nhân từ 3 khu vực. Đánh giá xem sự sụt giảm ở các điểm gãy có phải do khu vực II (Công nghiệp) hay khu vực III (Dịch vụ) dẫn đầu.
+- [x] **Đối chiếu ngoại biên:** Liên kết các điểm gãy với biến động tỷ giá USD/VND và bối cảnh quốc tế từ báo cáo Overview.
 
 ## Giai đoạn 4: Mô hình hóa & Dự báo (Tuần 4)
 - [ ] Huấn luyện ARIMA & LSTM.
