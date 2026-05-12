@@ -4,7 +4,6 @@
 - [x] Thiết lập cấu trúc thư mục chuẩn: `data/`, `notebooks/`, `docs/`, `outputs/`.
 - [x] Import dữ liệu Master DataFrame từ `data/raw/`.
 - [x] Xây dựng **Overview Dashboard**: Biểu đồ "One-Look" tại `FINAL_EXECUTIVE_DASHBOARD.ipynb`.
-
 ## Giai đoạn 2: Phân tích Khám phá & Kiểm định (Tuần 2)
 - [ ] EDA chuyên sâu các đặc trưng chuỗi thời gian.
 - [ ] Thực hiện kiểm định ADF, Granger Causality.
