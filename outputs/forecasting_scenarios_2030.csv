@@ -1,0 +1,5 @@
+Year,Scenario,GDP_USD_Billion,GDP_Per_Capita_USD,Status_Income_Trap
+2030,Base,650.4,6250.0,Upper Middle Income
+2030,Optimistic,715.2,6875.0,Upper Middle Income (Closing gap)
+2030,Pessimistic,585.3,5625.0,Upper Middle Income
+2045,Optimistic (Projection),1500.0,14500.0,High Income
