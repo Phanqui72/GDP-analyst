@@ -6,6 +6,8 @@ Tài liệu này mô tả chi tiết quy trình, phương pháp và các kết q
 ---
 
 ## 2. Dữ liệu đầu vào (Input Data)
+- [Chẩn đoán Biến động & Điểm gãy (Diagnostic Analysis)](../reports/DIAGNOSTIC_ANALYSIS_REPORT.md)
+- [Tiền xử lý dữ liệu (Data Preprocessing)](../pre-procesing/DATA_PREPROCESSING.md)
 EDA sử dụng các tập dữ liệu đã qua tiền xử lý (Preprocessing) nằm trong thư mục `data/processed/`:
 
 - **`gdp_sectors_processed.csv`**: Chứa giá trị GDP phân theo 3 khu vực kinh tế (Nông nghiệp, Công nghiệp, Dịch vụ) từ năm 1986 - 2024.

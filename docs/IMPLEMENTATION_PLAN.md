@@ -4,9 +4,10 @@
 - [x] Thiết lập cấu trúc thư mục chuẩn: `data/`, `notebooks/`, `docs/`, `outputs/`.
 - [x] Import dữ liệu Master DataFrame từ `data/raw/`.
 - [x] Xây dựng **Overview Dashboard**: Biểu đồ "One-Look" tại `FINAL_EXECUTIVE_DASHBOARD.ipynb`.
+
 ## Giai đoạn 2: Phân tích Khám phá & Kiểm định (Tuần 2)
-- [ ] EDA chuyên sâu các đặc trưng chuỗi thời gian.
-- [ ] Thực hiện kiểm định ADF, Granger Causality.
+- [x] EDA chuyên sâu các đặc trưng chuỗi thời gian.
+- [x] Thực hiện kiểm định ADF, Granger Causality.
 - [ ] Phân tích tương quan giữa TFP và Năng suất lao động (`SL.GDP.PCAP.EM.KD`).
 
 ## Giai đoạn 3: Phát hiện & Chẩn đoán Điểm Gãy (Diagnostic Analysis) (Tuần 3)
